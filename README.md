@@ -1,6 +1,8 @@
 <h3 id="je-mappelle-benoit-developpeur-web-t-shaped-ravi-de-vous-connaitre">Je m'appelle Benoit, développeur web T-shaped, ravi de vous connaître 😁</h3>
 <ul>
-<li><p>🔭 Je travaille actuellement chez <a href="https://github.com/ContaktTR">Contakt</a>, une start-up basée à Toulouse, et qui travaille sur des titres restaurants éco-responsables ♻️, n'hésitez pas à venir voir: <a href="http://contakt.eco/">Site en construction 🚧</a></p>
+<li>🔭 Je travaille actuellement chez <a href="https://github.com/ContaktTR">Contakt</a>, une start-up basée à Toulouse,
+et qui travaille sur des titres restaurants éco-responsables ♻️ <br />
+N'hésitez pas à venir voir: <a href="http://contakt.eco/">Site en construction 🚧</a>
 </li>
 <li><p>⚡Je travaille actuellement avec NodeJS, Electron, ou encore VueJS</p>
 </li>
